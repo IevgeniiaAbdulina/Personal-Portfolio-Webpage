@@ -3,8 +3,8 @@
     "pageView": "https://ievgeniiaabdulina.github.io/Project-Management-App",
     "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/pm-app-img.png?alt=media&token=ce72ce20-83e0-4b15-8196-6912fa029c0b",
     "codeLink": "https://github.com/IevgeniiaAbdulina/Project-Management-App",
-    "title": "Project Management App",
-    "languages": "Angular"
+    "title": "Task Management",
+    "languages": "Angular, TypeScript"
   },
   {
     "pageView": "https://ievgeniiaabdulina.github.io/online-zoo/pages/main",
@@ -42,6 +42,34 @@
     "languages": "React"
   },
   {
+    "pageView": "https://frontend-mento-git-main-ievgeniiaa-28b59b.vercel.app/",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/clipboard-page-img.png?alt=media&token=96df229f-6a0e-47e9-acb3-77bc52d055f5",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/Frontend-Mentor-Clipboard-Landing-Page",
+    "title": "Landing Page",
+    "languages": "HTML, SCSS"
+  },
+  {
+    "pageView": "https://frontend-mentor-huddle-landing-page-single-section.vercel.app",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/huddle-landing-page-img.png?alt=media&token=e19bbb3c-7e7e-47df-8cb4-b93eefafec77",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/Frontend-Mentor-Huddle-Landing-Page-Single-Section",
+    "title": "Huddle Landing Page",
+    "languages": "HTML, CSS"
+  },
+  {
+    "pageView": "https://frontend-mentor-landing-page-huddle.vercel.app",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/landing-page-img.png?alt=media&token=ef69ad66-18a3-4cc6-a8fc-c7b82122dcb0",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/Frontend-Mentor-Landing-Page-Huddle",
+    "title": "Landing Page",
+    "languages": "HTML, CSS"
+  },
+  {
+    "pageView": "https://ievgeniiaabdulina.github.io/freeCodeCamp-Personal-Portfolio-Webpage",
+    "imageLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Personal-Portfolio-Webpage/raw/master/img/desktop-img.png",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Personal-Portfolio-Webpage",
+    "title": "Portfolio Webpage",
+    "languages": "HTML, CSS"
+  },
+  {
     "pageView": "https://codepen.io/ievgeniiaabdulina/full/YzwrYwY",
     "imageLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Technical-Documentation-Page/raw/master/img/desktop-img.png",
     "codeLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Technical-Documentation-Page",
@@ -49,10 +77,94 @@
     "languages": "HTML, CSS"
   },
   {
+    "pageView": "https://ievgeniiaabdulina.github.io/freeCodeCamp-Tribute-Page",
+    "imageLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Tribute-Page/raw/master/img/desktop-img.png",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Tribute-Page",
+    "title": "Tribute Page",
+    "languages": "HTML, CSS"
+  },
+  {
+    "pageView": "https://frontend-mentor-fylo-data-storage-eight.vercel.app",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/fylo-img.png?alt=media&token=4a8b6230-0651-49cd-8259-899230c4207f",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/Frontend-Mentor-Fylo-Data-Storage",
+    "title": "Fylo Component",
+    "languages": "HTML, CSS"
+  },
+  {
+    "pageView": "https://ievgeniiaabdulina.github.io/freeCodeCamp-Product-Landing-Page",
+    "imageLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Product-Landing-Page/raw/master/img/desktop-img.png",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Product-Landing-Page",
+    "title": "Product Landing Page",
+    "languages": "HTML, CSS"
+  },
+  {
+    "pageView": "https://cdpn.io/pen/debug/gOPRBrM?authentication_hash=gaMeYgOKZEXM",
+    "imageLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Survey-Form/raw/master/img/img-desktop.png",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/freeCodeCamp-Survey-Form",
+    "title": "Survey Form Project",
+    "languages": "HTML, CSS"
+  },
+  {
+    "pageView": "https://cc19weatherapp.herokuapp.com",
+    "imageLink": "https://github.com/IevgeniiaAbdulina/AplikacjaPogodowa/raw/master/weather.jpg",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/AplikacjaPogodowa",
+    "title": "Weather App",
+    "languages": "HTML, CSS, JS"
+  },
+  {
+    "pageView": "https://ievgeniiaabdulina.github.io/Icons-animation",
+    "imageLink": "https://github.com/IevgeniiaAbdulina/Icons-animation/raw/master/ic-weather.jpg",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/Icons-animation",
+    "title": "Icons Animation",
+    "languages": "CSS"
+  },
+  {
+    "pageView": "https://dariaka.github.io/Aplikacja-kinowa",
+    "imageLink": "https://github.com/IevgeniiaAbdulina/Aplikacja-kinowa/raw/master/public/cinema.jpg",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/Aplikacja-kinowa",
+    "title": "Cinema App",
+    "languages": "React"
+  },
+  {
+    "pageView": "https://dariaka.github.io/OXGame",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/tic-tac-toe-img.png?alt=media&token=72fb0d01-7723-4d6d-9718-d0c003057204",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/OXGame",
+    "title": "TIC-TAC-TOE",
+    "languages": "HTML, CSS, JS"
+  },
+  {
     "pageView": "https://codepen.io/ievgeniiaabdulina/full/jOMJNab",
     "imageLink": "https://github.com/IevgeniiaAbdulina/Random-Quote-Machine/raw/main/src/img/preview-img.png",
     "codeLink": "https://github.com/IevgeniiaAbdulina/Random-Quote-Machine",
-    "title": "Random Quote Machine",
+    "title": "Random Quote App",
+    "languages": "React"
+  },
+  {
+    "pageView": "https://codepen.io/ievgeniiaabdulina/full/RwoBYEj",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/clock-app-img.png?alt=media&token=a4d07184-471e-41f4-b9b7-b0a5a9db6c20",
+    "codeLink": "https://codepen.io/ievgeniiaabdulina/pen/RwoBYEj",
+    "title": "25+5 Clock",
+    "languages": "React"
+  },
+  {
+    "pageView": "https://codepen.io/ievgeniiaabdulina/full/QWGKOre",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/js-calculator-img.png?alt=media&token=d180e3f2-8ce4-45e9-886c-44f69ef9a190",
+    "codeLink": "https://codepen.io/ievgeniiaabdulina/pen/QWGKOre",
+    "title": "JS Calculator",
+    "languages": "React"
+  },
+  {
+    "pageView": "https://codepen.io/ievgeniiaabdulina/full/OJbVQJd",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/markdown-app-img.png?alt=media&token=f7b8645d-2ff8-4d6c-909e-88d77e3065d2",
+    "codeLink": "https://codepen.io/ievgeniiaabdulina/pen/OJbVQJd",
+    "title": "Markdown Previewer",
+    "languages": "React"
+  },
+  {
+    "pageView": "https://codepen.io/ievgeniiaabdulina/full/gOLaEBr",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/drum-machine-img.png?alt=media&token=bd272f8d-b9a9-4a0c-9d36-42d7d59a1209",
+    "codeLink": "https://codepen.io/ievgeniiaabdulina/pen/gOLaEBr",
+    "title": "Drum Machine",
     "languages": "React"
   }
 ]
