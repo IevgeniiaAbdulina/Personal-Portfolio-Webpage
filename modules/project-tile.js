@@ -27,7 +27,9 @@ const createProjectTile = (project) => {
     projectCodeLink.href = project.codeLink;
     projectCodeLink.target = "_blank";
     projectCodeLink.classList = 'project-link hover-item';
-    projectCodeLink.innerHTML = `<p class="project-title">${project.title} [${project.languages}]</p>
+    projectCodeLink.innerHTML = `<p class="project-title">${project.title}
+        <br>
+        [${project.languages}]</p>
         <span class="material-symbols-rounded">
             open_in_new
         </span>
