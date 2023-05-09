@@ -154,7 +154,6 @@
   
     .profile {
       width: 100%;
-      justify-content: center;
     }
   
     nav {
@@ -164,8 +163,8 @@
     nav > ul {
       margin-top: 20px;
       display: flex;
-      flex-direction: column;
-      justify-content: center;
+      flex-direction: row;
+      justify-content: space-evenly;
       align-items: center;
     }
   
@@ -182,43 +181,89 @@
   
   
   /* ===  WELCOME SECTION STYLE === */
-  
+
   .welcome-section {
-    width: 100%;
+    max-width: 1100px;
     height: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .wrap-title {
+    flex: 1;
+    order: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    background-color: var(--secondary-color);
   }
-  
-  .welcome-section > h1 {
+
+  .wrap-img {
+    flex: 1;
+    order: 2;
+  }
+
+  .wrap-title > h1 {
     font-family: var(--sub-title-font-family), sans-serif;
     font-size: 3rem;
     font-weight: 700;
-    color: var(--white-color);
+    color: var(--secondary-color);
   }
-  
-  .welcome-section > p {
+
+  .wrap-title > p {
     font-family: var(--sub-title-font-family);
     font-size: 1.75rem;
     font-weight: 400;
     font-style: italic;
     color: var(--light-purple-color);
   }
-  
+
   @media only screen and (max-width: 600px) {
     .welcome-section {
+      flex-direction: column;
       height: auto;
-      padding: 220px 0;
+      padding: 20px;
     }
   
-    .welcome-section > h1 {
+    .wrap-title > h1 {
       text-align: center;
       font-size: 2rem;
     }
+
+    .wrap-title > p {
+      text-align: center;
+      font-size: 1.5rem;
+    }
+
+    .wrap-title {
+      flex: 1 auto;
+      order: 2;
+    }
+
+    .wrap-img {
+      width: 100%;
+      order: 1;
+    }
   }
+
+  @media only screen and (max-width: 780px) {
+    .wrap-title > h1 {
+      font-size: 1.75rem;
+    }
+
+    .wrap-title > p {
+      font-size: 1.5rem;
+    }
+  }
+   
+  @media only screen and (max-width: 1100px) {
+    .welcome-section {
+      padding: 20px;
+    }
+  }
+  
   /* ------------------------------ */
   
   
@@ -246,7 +291,8 @@
     .projects-section > h2 {
       font-size: 2rem;
       line-height: 2rem;
-      padding-top: 240px;
+      /* padding-top: 240px; */
+      padding-top: 60px;
     }
   }
   
@@ -555,6 +601,11 @@
   footer a {
     color: var(--pink-color);
     font-weight: 700;
+  }
+
+  .attribute-img {
+    font-weight: 400;
+    color: var(--grey-color);
   }
   
   footer a:hover {
