@@ -1,5 +1,12 @@
 [
   {
+    "pageView": "https://angular-weather-app-six.vercel.app/weather",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/weather-angular-2023%2Fweather-app-img.png?alt=media&token=36656088-f16f-4137-a7e1-61f810a3ea6b",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/angular-weather-app",
+    "title": "Weather Application",
+    "languages": "Angular, TypeScript"
+  },
+  {
     "pageView": "https://ievgeniiaabdulina.github.io/Project-Management-App",
     "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/pm-app-img.png?alt=media&token=ce72ce20-83e0-4b15-8196-6912fa029c0b",
     "codeLink": "https://github.com/IevgeniiaAbdulina/Project-Management-App",
