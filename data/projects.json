@@ -1,5 +1,19 @@
 [
   {
+    "pageView": "https://angular-ng-rx-connections.vercel.app/",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/connections-app%2Fconnections-app-conversation-page.png?alt=media&token=b9df209e-7696-4d18-a1f3-90bafb592494",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/Angular-NgRx-Connections",
+    "title": "Connections",
+    "languages": "Angular, TypeScript"
+  },
+  {
+    "pageView": "https://rolling-scopes-school.github.io/ievgeniiaabdulina-ANGULAR2023Q4/video",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/YouTube-client-app%2Fhome-page-youtube-app-final.png?alt=media&token=ff944672-9f68-4989-945d-0ec62db0107d",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/Angular-NgRx-YouTube-Api",
+    "title": "YouTube Client App",
+    "languages": "Angular, TypeScript"
+  },
+  {
     "pageView": "https://angular-weather-app-six.vercel.app/weather",
     "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/weather-angular-2023%2Fweather-app-img.png?alt=media&token=36656088-f16f-4137-a7e1-61f810a3ea6b",
     "codeLink": "https://github.com/IevgeniiaAbdulina/angular-weather-app",
