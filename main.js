@@ -1,4 +1,9 @@
-import data from "./data/projects.json" assert { type: "json" };
+// import data from "./data/projects.json" assert { type: "json" }; // ERROR!!!
+
+// This is due to support for "import assertions" being removed from Node in favour of "import attributes", which are essentially the same thing except you have to use the keyword with instead of assert:
+// https://stackoverflow.com/questions/78876691/syntaxerror-unexpected-identifier-assert-on-json-import-in-node-v22
+
+import data from "./data/projects.json" with { type: "json" };
 import { createProjectTile } from "./modules/project-tile.js";
 
 document.body.onload = () => {
