@@ -1,5 +1,12 @@
 [
   {
+    "pageView": "https://ievgeniiaabdulina.github.io/hangman-game",
+    "imageLink": "https://github.com/IevgeniiaAbdulina/hangman-game/blob/main/thumbnail.png?raw=true",
+    "codeLink": "https://github.com/IevgeniiaAbdulina/hangman-game",
+    "title": "Hangman Game",
+    "languages": "HTML, SCSS, JS"
+  },
+  {
     "pageView": "https://mental-health-wroclaw.vercel.app",
     "imageLink": "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-b7e69.appspot.com/o/Angular-Health-website%2FScreenshot-MH-home.png?alt=media&token=b216c456-fad7-45e8-a1b0-8613df9b6849",
     "codeLink": "https://github.com/IevgeniiaAbdulina/Angular-Health-App",
